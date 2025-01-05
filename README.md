@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+# customer-churn
 This project focuses on predicting customer churn using a fully connected Neural Network. The dataset contains information about customers of a company, and the goal is to determine whether a customer will exit based on a set of measured features. The project involves data cleaning, model development, and performance evaluation to provide actionable insights for the company.
 
 ## Project Objectives
